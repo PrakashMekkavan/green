@@ -18,10 +18,13 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 
 public class Sunday {
-
-	welcomeeeeeeeee
+  
 	WebDriverManager.chromedriver().setup();
 WebDriver dr= new ChromeDriver();	
-	 mmmmmmmmmmmmmmmmmmmmmmmm
+ private void sysout() {
+	// TODO Auto-generated method stub
 
+}public Sunday() {
+	// TODO Auto-generated constructor stub
+}
 } 
